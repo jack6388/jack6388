@@ -1,16 +1,16 @@
-## Hi there 👋
+# Web3 Newswire API Client (Unofficial)
 
-<!--
-**jack6388/jack6388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a simple Node.js script to send press releases via the [Web3 Newswire](https://web3newswire.com) platform. It's ideal for blockchain projects looking to distribute crypto news efficiently.
 
-Here are some ideas to get you started:
+## 🚀 Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Submit press releases programmatically
+- Easy setup with Axios and dotenv
+- Built for developers working on Web3 and crypto projects
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/yourusername/web3-newswire-client.git
+cd web3-newswire-client
+npm install
